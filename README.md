@@ -32,3 +32,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"  />
   </a>
 </div>
+![gitartwork](gitartwork.svg)
+[![jasineri/gitartwork](https://github.com/jasineri/gitartwork/blob/main/gitartwork.svg)](https://github.com/jasineri/gitartwork/)
