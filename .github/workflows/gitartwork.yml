@@ -10,5 +10,5 @@
        - uses: jasineri/gitartwork@v1
          with:
             user_name: m4ndil
-            text: m4ndil
+            text: MANDIL
        - uses: jasineri/simple-push-action@v1
