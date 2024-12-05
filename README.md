@@ -7,16 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=6&order=3" height="170" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=6&order=3" height="170" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -38,11 +28,4 @@
   ![gitartwork](gitartwork.svg)
 
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=6&order=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=6&order=3" />
-  <img alt="streak graph" src="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=weekly&theme=github_light&hide_border=false&border_radius=6&order=3" height="170" />
-</picture>
 
