@@ -7,8 +7,7 @@
 <img height="300" width="400" align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZvdnFiNXJoYTVxdzE5OWlzazdmZTl6ZW5jYnVzZTBocjdmc2MxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 <div>
-  <h3 id="-languages-and-tools">
-    💻 Language:
+  <h3>💻 Language:
     <img width="12" />
     <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo" />
     <img width="12" />
@@ -19,16 +18,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </h3>
 
-  <h3 id="-languages-and-tools">
-    ⚙️ Framework:
+  <h3>⚙️ Framework:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
   </h3>
 
-  <h3 id="-languages-and-tools">
-    🗄️ Database:
+  <h3>🗄️ Database:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     <img width="12" />
@@ -39,10 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   </h3>
 
-  <h3 id="-languages-and-tools">
-    🔨 Technique:
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
+  <h3>🔨 Technique:
     <img width="12" />
     <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
     <img width="12" />
