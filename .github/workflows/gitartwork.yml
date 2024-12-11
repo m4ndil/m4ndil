@@ -3,7 +3,7 @@
    push:
  jobs:
    build:
-     name: gitartwork SVG
+     name: personal gitartwork SVG
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
