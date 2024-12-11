@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mandil <img height="40" src="https://cdn3.emoji.gg/emojis/8132-annoyingdog.gif"></h1>
 <h3 align="center">Mobile Application Developer based in Nepal.</h3>
 
+<img height="300" width="400" align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZvdnFiNXJoYTVxdzE5OWlzazdmZTl6ZW5jYnVzZTBocjdmc2MxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
+
 <div>
   <h3>💻 Language:
     <img width="12" />
