@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mandil <img height="40" src="https://cdn3.emoji.gg/emojis/8132-annoyingdog.gif"></h1>
 <h3 align="center">Mobile Application Developer based in Nepal.</h3>
 
+<br clear="both">
+
 <img height="300" width="400" align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZvdnFiNXJoYTVxdzE5OWlzazdmZTl6ZW5jYnVzZTBocjdmc2MxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
 <div>
@@ -47,6 +49,14 @@
   </h3>
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6&order=3" height="170" alt="m4ndil"  />
+</div>
+
+<br clear="both">
+
 <div align="center">
   <a href="mailto:mandilshresthaktm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"  />
@@ -64,6 +74,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+<br clear="both">
 <div align="center">
   
   ![gitartwork](gitartwork.svg)
