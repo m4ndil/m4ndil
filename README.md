@@ -59,6 +59,10 @@
   <a href="https://www.linkedin.com/in/mandil-shrestha-7024a4225/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"  />
   </a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://discord.com/users/1311588030259134464" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 <div align="center">
   
