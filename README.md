@@ -52,9 +52,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m4ndil&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6&order=3" height="170" alt="m4ndil"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4ndil&theme=github-dark&hide_border=false&border_radius=6&order=3" height="170" alt="m4ndil"  />
 </div>
-
 <br clear="both">
 
 <div align="center">
