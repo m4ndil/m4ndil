@@ -42,8 +42,8 @@
     <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo" />
     <img width="12" />
     <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo" />
+    <!--<img width="12" />
+    <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo" /> -->
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
   </h3>
